@@ -8,7 +8,7 @@ version: 1
 metadata:
   category: Lightning Node Management
   name: Ride The Lightning
-  version: 0.12.1
+  version: 0.12.3
   tagline: Manage lightning node operations better
   description: Haven't written a desription yet for this, sorry.
   developer: Shahana and Suheb
@@ -25,7 +25,7 @@ metadata:
   defaultPassword: $APP_SEED
   mainContainer: web
 containers:
-  - image: shahanafarooqui/rtl:0.12.1@sha256:8589a880f6357e5ea5cc3826e1704f4e91de324067f34388586faa0395204725
+  - image: shahanafarooqui/rtl:0.12.3@sha256:b1327ecfddae5f40c4c985e31c2bc158c4697a274b61bf84acfb27486d05c5bf
     user: 1000:1000
     port: 3000
     environment:

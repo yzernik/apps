@@ -8,7 +8,7 @@ version: 1
 metadata:
   category: Social
   name: Sphinx Relay
-  version: 2.2.5
+  version: 2.2.9
   tagline: Chat and pay over the Lightning Network
   description: >-
     Sphinx Relay turns your Lightning node into a personal communication server.
@@ -34,7 +34,7 @@ metadata:
   path: /connect
 containers:
   - name: web
-    image: sphinxlightning/sphinx-relay:v2.2.5@sha256:9c7b112ead4585a92b6d65ebaa6206cf64069813b382b361c6c928c0def8a682
+    image: sphinxlightning/sphinx-relay:v2.2.9@sha256:44d512092961411f5e9d909e543634a770b91d3a7394c91496ab108c37148962
     init: true
     environment:
       PUBLIC_URL: $APP_HIDDEN_SERVICE:80
