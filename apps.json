@@ -39,7 +39,7 @@
         "id": "ride-the-lightning",
         "name": "Ride The Lightning",
         "repo": "https://github.com/Ride-The-Lightning/RTL",
-        "version": "0.12.3"
+        "version": "0.13.0"
     },
     {
         "id": "lightning-terminal",
