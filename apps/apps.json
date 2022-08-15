@@ -1,27 +1,15 @@
 [
     {
-        "id": "squeaknode",
-        "name": "Squeaknode",
-        "repo": "https://github.com/squeaknode/squeaknode",
-        "version": "0.3.5"
+        "id": "lnme",
+        "name": "LnMe",
+        "repo": "https://github.com/bumi/lnme",
+        "version": "1.4.0"
     },
     {
-        "id": "synapse-admin",
-        "name": "Synapse Admin",
-        "repo": "https://github.com/Awesome-Technologies/synapse-admin",
-        "version": "0.8.5"
-    },
-    {
-        "id": "bluewallet",
-        "name": "BlueWallet Lightning",
-        "repo": "https://github.com/BlueWallet/LndHub",
-        "version": "1.4.1"
-    },
-    {
-        "id": "node-red",
-        "name": "Node-RED",
-        "repo": "https://github.com/node-red/node-red",
-        "version": "3.0.2"
+        "id": "lightning-shell",
+        "name": "Lightning Shell",
+        "repo": "https://github.com/ibz/lightning-shell",
+        "version": "0.1.10"
     },
     {
         "id": "specter-desktop",
@@ -30,16 +18,16 @@
         "version": "1.10.5"
     },
     {
+        "id": "mempool",
+        "name": "Mempool",
+        "repo": "https://github.com/mempool/mempool",
+        "version": "2.3.1"
+    },
+    {
         "id": "btc-rpc-explorer-public-fast",
         "name": "BTC RPC Explorer (Public; Fast version)",
         "repo": "https://github.com/janoside/btc-rpc-explorer",
         "version": "3.3.0"
-    },
-    {
-        "id": "ride-the-lightning",
-        "name": "Ride The Lightning",
-        "repo": "https://github.com/Ride-The-Lightning/RTL",
-        "version": "0.13.0"
     },
     {
         "id": "lightning-terminal",
@@ -48,10 +36,16 @@
         "version": "0.7.0-alpha"
     },
     {
-        "id": "nextcloud",
-        "name": "Nextcloud",
-        "repo": "https://github.com/nextcloud/server",
-        "version": "24.0.4"
+        "id": "sphinx-relay",
+        "name": "Sphinx Relay",
+        "repo": "https://github.com/stakwork/sphinx-relay",
+        "version": "2.2.9"
+    },
+    {
+        "id": "bluewallet",
+        "name": "BlueWallet Lightning",
+        "repo": "https://github.com/BlueWallet/LndHub",
+        "version": "1.4.1"
     },
     {
         "id": "bitfeed",
@@ -60,34 +54,10 @@
         "version": "2.3.4"
     },
     {
-        "id": "code-server",
-        "name": "code-server",
-        "repo": "https://github.com/cdr/code-server",
-        "version": "4.5.1"
-    },
-    {
-        "id": "btc-rpc-explorer",
-        "name": "BTC RPC Explorer",
-        "repo": "https://github.com/janoside/btc-rpc-explorer",
-        "version": "3.3.0"
-    },
-    {
-        "id": "lnme",
-        "name": "LnMe",
-        "repo": "https://github.com/bumi/lnme",
-        "version": "1.4.0"
-    },
-    {
-        "id": "sphinx-relay",
-        "name": "Sphinx Relay",
-        "repo": "https://github.com/stakwork/sphinx-relay",
-        "version": "2.2.9"
-    },
-    {
-        "id": "thunderhub",
-        "name": "ThunderHub",
-        "repo": "https://github.com/apotdevin/thunderhub",
-        "version": "0.13.15"
+        "id": "squeaknode",
+        "name": "Squeaknode",
+        "repo": "https://github.com/squeaknode/squeaknode",
+        "version": "0.3.5"
     },
     {
         "id": "uptime-kuma",
@@ -96,22 +66,10 @@
         "version": "1.17.1"
     },
     {
-        "id": "usocial",
-        "name": "Usocial",
-        "repo": "https://github.com/ibz/usocial",
-        "version": "0.1.4"
-    },
-    {
-        "id": "lnmarkets",
-        "name": "LN Markets",
-        "repo": "https://github.com/ln-markets/umbrel",
-        "version": "1.2.3"
-    },
-    {
-        "id": "btc-rpc-explorer-public",
-        "name": "BTC RPC Explorer (Public)",
-        "repo": "https://github.com/janoside/btc-rpc-explorer",
-        "version": "3.3.0"
+        "id": "nextcloud",
+        "name": "Nextcloud",
+        "repo": "https://github.com/nextcloud/server",
+        "version": "24.0.4"
     },
     {
         "id": "krystal-bull",
@@ -120,16 +78,34 @@
         "version": "1.7.0-212-d9126650"
     },
     {
+        "id": "btc-rpc-explorer-public",
+        "name": "BTC RPC Explorer (Public)",
+        "repo": "https://github.com/janoside/btc-rpc-explorer",
+        "version": "3.3.0"
+    },
+    {
+        "id": "node-red",
+        "name": "Node-RED",
+        "repo": "https://github.com/node-red/node-red",
+        "version": "3.0.2"
+    },
+    {
+        "id": "synapse-admin",
+        "name": "Synapse Admin",
+        "repo": "https://github.com/Awesome-Technologies/synapse-admin",
+        "version": "0.8.5"
+    },
+    {
         "id": "btcpay-server",
         "name": "BTCPay Server",
         "repo": "https://github.com/btcpayserver/btcpayserver",
         "version": "1.6.7"
     },
     {
-        "id": "lightning-shell",
-        "name": "Lightning Shell",
-        "repo": "https://github.com/ibz/lightning-shell",
-        "version": "0.1.10"
+        "id": "ride-the-lightning",
+        "name": "Ride The Lightning",
+        "repo": "https://github.com/Ride-The-Lightning/RTL",
+        "version": "0.13.0"
     },
     {
         "id": "synapse",
@@ -144,9 +120,33 @@
         "version": "1.25.2"
     },
     {
-        "id": "mempool",
-        "name": "Mempool",
-        "repo": "https://github.com/mempool/mempool",
-        "version": "2.3.1"
+        "id": "usocial",
+        "name": "Usocial",
+        "repo": "https://github.com/ibz/usocial",
+        "version": "0.1.4"
+    },
+    {
+        "id": "code-server",
+        "name": "code-server",
+        "repo": "https://github.com/cdr/code-server",
+        "version": "4.5.1"
+    },
+    {
+        "id": "lnmarkets",
+        "name": "LN Markets",
+        "repo": "https://github.com/ln-markets/umbrel",
+        "version": "1.2.3"
+    },
+    {
+        "id": "btc-rpc-explorer",
+        "name": "BTC RPC Explorer",
+        "repo": "https://github.com/janoside/btc-rpc-explorer",
+        "version": "3.3.0"
+    },
+    {
+        "id": "thunderhub",
+        "name": "ThunderHub",
+        "repo": "https://github.com/apotdevin/thunderhub",
+        "version": "0.13.15"
     }
 ]
