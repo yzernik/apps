@@ -99,7 +99,7 @@
         "id": "btcpay-server",
         "name": "BTCPay Server",
         "repo": "https://github.com/btcpayserver/btcpayserver",
-        "version": "1.6.8"
+        "version": "1.6.9"
     },
     {
         "id": "ride-the-lightning",
